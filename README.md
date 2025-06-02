@@ -41,6 +41,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayhem-hamdi-391a61324/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle;" />
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+      alt="LinkedIn" 
+      width="30" 
+      height="30" 
+      style="vertical-align:middle;" 
+    />
   </a>
 </p>
