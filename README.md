@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding-gif" />
 </p>
 
-- 🔭 I’m currently working on **Firebase and Supabase-powered backend apps**
+- 🔭 Currently developing secure and scalable backend APIs using Node.js and Express, focusing on robust authentication, efficient data handling, and seamless integration.**
 
 - 🌱 I’m currently diving deeper into **Flutter & full-stack mobile development**
 
