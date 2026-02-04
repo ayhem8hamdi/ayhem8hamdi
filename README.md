@@ -14,43 +14,41 @@
 ---
 
 - 🔭 Currently developing **secure and scalable backend APIs** using **Node.js & Express**, focusing on robust authentication, efficient data handling, and seamless integration.
-
-- 🌱 I’m currently diving deeper into **Flutter & full-stack mobile development**
-
+- 🌱 Currently diving deeper into **Flutter & full-stack mobile development**
 - ⚡ Fun fact: **Code is like humor — if you have to explain it, it’s bad.**
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayhem8hamdi&show_icons=true&theme=dark" alt="Ayhem's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhem8hamdi&layout=compact&langs_count=6&theme=dark" alt="Top languages" />
-</p>
+
+![Ayhem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhem8hamdi&show_icons=true&theme=dark&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhem8hamdi&layout=compact&langs_count=6&theme=dark&cache_seconds=1800)
 
 ---
 
 ### 🔗 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayhem-hamdi-391a61324/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+  <a href="https://www.linkedin.com/in/ayhem-hamdi-391a61324/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://ayhem-hamdi.me/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="30" height="30"/>
+  <a href="https://ayhem-hamdi.me/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" />
   </a>
 </p>
