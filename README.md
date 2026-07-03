@@ -41,8 +41,11 @@
 
 ### 📊 GitHub Stats:
 
-![Ayhem's GitHub stats](https://github-readme-stats-mugiwara2.vercel.app/api?username=ayhem8hamdi&show_icons=true&theme=dark&cache_seconds=86400&v=2)
-![Top Languages](https://github-readme-stats-mugiwara2.vercel.app/api/top-langs/?username=ayhem8hamdi&layout=compact&langs_count=6&theme=dark&cache_seconds=86400&v=2)
+<p align="center">
+  <img src="https://github-readme-stats-mugiwara2.vercel.app/api?username=ayhem8hamdi&show_icons=true&theme=dark&cache_seconds=86400&v=2" alt="Ayhem's GitHub stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-mugiwara2.vercel.app/api/top-langs/?username=ayhem8hamdi&layout=compact&langs_count=6&theme=dark&cache_seconds=86400&v=2" alt="Top Languages" />
+</p>
 
 <!--
   Self-hosted github-readme-stats deployment (mugiwara2's fork on Vercel).
