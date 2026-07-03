@@ -41,27 +41,13 @@
 
 ### 📊 GitHub Stats:
 
-![Ayhem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhem8hamdi&show_icons=true&theme=dark&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhem8hamdi&layout=compact&langs_count=6&theme=dark&cache_seconds=86400)
+![Ayhem's GitHub stats](https://github-readme-stats-mugiwara2.vercel.app/api?username=ayhem8hamdi&show_icons=true&theme=dark&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-mugiwara2.vercel.app/api/top-langs/?username=ayhem8hamdi&layout=compact&langs_count=6&theme=dark&cache_seconds=86400)
 
 <!--
-  NOTE on flaky stats cards:
-  github-readme-stats.vercel.app is the SHARED PUBLIC demo deployment used by
-  thousands of profiles. It regularly hits GitHub's API rate limit, which is
-  why the cards sometimes fail to load ("Error: Something went wrong").
-  This is a confirmed upstream issue, not a config mistake on your end.
-
-  The reliable fix is to self-host your own instance:
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Deploy the fork to Vercel (vercel.com -> New Project -> import your fork)
-    3. In Vercel project settings -> Environment Variables, add:
-         PAT_1 = <a GitHub Personal Access Token with public_repo scope>
-    4. Redeploy, then replace "github-readme-stats.vercel.app" above with
-       your own Vercel deployment URL (e.g. your-username-stats.vercel.app)
-
-  This removes you from the shared rate limit entirely, so the cards load
-  consistently. Increasing cache_seconds (done above, 86400 = 24h) also
-  reduces how often it needs to hit the GitHub API in the meantime.
+  Self-hosted github-readme-stats deployment (mugiwara2's fork on Vercel).
+  This removes the shared-instance rate limit that caused the cards to fail
+  before. PAT_1 env variable is set in the Vercel project settings.
 -->
 
 ---
